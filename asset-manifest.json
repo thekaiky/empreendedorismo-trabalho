@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/empreendedorismo-trabalho/static/css/main.ce9ab9ba.css",
-    "main.js": "/empreendedorismo-trabalho/static/js/main.abf0b282.js",
+    "main.js": "/empreendedorismo-trabalho/static/js/main.e9e1f436.js",
     "static/media/visaoImage.jpg": "/empreendedorismo-trabalho/static/media/visaoImage.c4442920322380c4d648.jpg",
     "static/media/heroImage.jpg": "/empreendedorismo-trabalho/static/media/heroImage.7e7f6aba05ab84c8da01.jpg",
     "static/media/missaoImage.jpg": "/empreendedorismo-trabalho/static/media/missaoImage.a9db18102c09bd5581e4.jpg",
     "index.html": "/empreendedorismo-trabalho/index.html",
     "main.ce9ab9ba.css.map": "/empreendedorismo-trabalho/static/css/main.ce9ab9ba.css.map",
-    "main.abf0b282.js.map": "/empreendedorismo-trabalho/static/js/main.abf0b282.js.map"
+    "main.e9e1f436.js.map": "/empreendedorismo-trabalho/static/js/main.e9e1f436.js.map"
   },
   "entrypoints": [
     "static/css/main.ce9ab9ba.css",
-    "static/js/main.abf0b282.js"
+    "static/js/main.e9e1f436.js"
   ]
 }
